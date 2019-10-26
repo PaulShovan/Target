@@ -1,0 +1,7 @@
+Shooter name :asdfas
+Shots taken :5
+Hits :5
+Average accuracy :5
+Average grouping :3
+Reflex :6
+Summary :5

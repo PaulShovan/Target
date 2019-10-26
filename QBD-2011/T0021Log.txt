@@ -1,0 +1,7 @@
+Shooter name :name
+Shots taken :5
+Hits :4
+Average accuracy :4
+Average grouping :7
+Reflex :1
+Summary :6

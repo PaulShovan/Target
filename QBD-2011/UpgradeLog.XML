@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QBD-2011">
+</Property><Property Name="Solution File" Value="D:\QBD-2011\QBD-2011\QBD-2011.sln">
+</Property><Property Name="User Options File" Value="D:\QBD-2011\QBD-2011\QBD-2011.suo">
+</Property><Property Name="Date" Value="Monday, September 10, 2012">
+</Property><Property Name="Time" Value="19:41 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QBD-2011.sln" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011.sln">
+</Event><Event ErrorLevel="0" Project="" Source="QBD-2011.suo" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011.suo">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\QBD-2011.csproj" Description="Project file successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\QBD-2011.csproj">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\AboutForm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\AboutForm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\AboutForm.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\AboutForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ColorRange.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ColorRange.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ColorRange.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ColorRange.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\GraphForm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\GraphForm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\GraphForm.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\GraphForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\LesarDetect.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\LesarDetect.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Loading.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Loading.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\LoadingForm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\LoadingForm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\LoadingForm.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\LoadingForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\MainForm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\MainForm.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Preview.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Preview.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Preview.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Preview.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Program.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Program.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\SerialPortComm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\SerialPortComm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\SettingsController.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\SettingsController.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ShootPointController.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ShootPointController.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ShootPointStatus.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ShootPointStatus.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ShootSettinsForm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ShootSettinsForm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ShootSettinsForm.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ShootSettinsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetBox.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetBox.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetBox.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetBoxController.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetBoxController.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetInfo.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetInfo.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetInfo.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetInfo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetTimer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetTimer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetTimer.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetTimer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TimeSettingsForm.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TimeSettingsForm.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TimeSettingsForm.Designer.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TimeSettingsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\VideoProcess.cs" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\VideoProcess.cs">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Properties\Settings.settings" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\shot.wav" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\shot.wav">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\green.jpg" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\green.jpg">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\red.jpg" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\red.jpg">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\yellow.jpg" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\yellow.jpg">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\green-dot.gif" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\green-dot.gif">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\red-dot.gif" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\red-dot.gif">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Resources\yello-dot.gif" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Resources\yello-dot.gif">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\AboutForm.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\AboutForm.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ColorRange.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ColorRange.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\GraphForm.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\GraphForm.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\LoadingForm.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\LoadingForm.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\MainForm.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Preview.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Preview.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\Properties\Resources.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\ShootSettinsForm.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\ShootSettinsForm.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetBox.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetBox.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetInfo.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetInfo.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TargetTimer.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TargetTimer.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\TimeSettingsForm.resx" Description="File successfully backed up as D:\QBD-2011\QBD-2011\Backup\QBD-2011\TimeSettingsForm.resx">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\QBD-2011.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QBD-2011" Source="QBD-2011\QBD-2011.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QBD-2011.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QBD-2011.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QBD-2011" Source="QBD-2011\QBD-2011.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
